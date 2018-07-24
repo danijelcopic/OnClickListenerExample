@@ -79,3 +79,35 @@ Dillinger is currently extended with the following plugins. Instructions on how 
 | OneDrive | [plugins/onedrive/README.md][PlOd] |
 | Medium | [plugins/medium/README.md][PlMe] |
 | Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
+
+<table>
+<tr>
+<th>ID</th><th>Name</th><th>Rank</th>
+</tr>
+<tr>
+<td>1</td><td>Tom Preston-Werner</td><td>Awesome</td>
+</tr>
+<tr>
+<td>2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
+</tr>
+</table>
+
+
+
+## Special Thanks
+* [CodeMirror](http://codemirror.net/).
+* [Github](http://developer.github.com/) for API and style.
+* [marked](https://github.com/chjj/marked).
+* [highlight.js](http://softwaremaniacs.org/soft/highlight/en/).
+* [Twitter Bootstrap](http://twitter.github.com/bootstrap/) with [Font Awesome](http://fortawesome.github.com/Font-Awesome/).
+* [HTML5 ★ BOILERPLATE](http://html5boilerplate.com/).
+* [jQuery](http://jquery.com/).
+* [HTML5 ROCKS](http://www.html5rocks.com/en/tutorials/file/xhr2/) for usage of BLOB.
+* [balupton](https://github.com/balupton).
+
+## Licence
+
+Source code can be found on [github](https://github.com/georgeOsdDev/markdown-edit), licenced under [MIT](http://opensource.org/licenses/mit-license.php).
+
+Developed by [Danijel.Copic](http://adit.rs)
