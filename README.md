@@ -1,7 +1,7 @@
 # OnClickListenerExample
 Few example of the implementation
 
-Option 1
+### Option 1
 
 ```html
 Button button = findViewById(R.id.btn);
@@ -13,6 +13,11 @@ Button button = findViewById(R.id.btn);
 
             }
         });
+```
+### Option 2
+```sh
+cd git
+docker build -t joemccann/dillinger:${package.json.version}
 ```
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
