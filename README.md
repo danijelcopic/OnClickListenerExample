@@ -3,7 +3,7 @@ Few example of the implementation
 
 ### Option 1
 
-```html
+```java
 Button button = findViewById(R.id.btn);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -15,7 +15,7 @@ Button button = findViewById(R.id.btn);
         });
 ```
 ### Option 2
-```sh
+```bash
 cd git
 docker build -t joemccann/dillinger:${package.json.version}
 ```
